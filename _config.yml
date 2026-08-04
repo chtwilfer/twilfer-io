@@ -25,7 +25,7 @@ repository               : "chtwilfer/twilfer-io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/ProfileCT2026.png"
+  avatar           : "ProfileCT2026.png"
   name             : "Christian Karl Twilfer"
   location         : "Germany"
   employer         : "Xebia Microsoft Services"
