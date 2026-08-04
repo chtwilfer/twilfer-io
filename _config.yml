@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "de-de"
-# remote_theme             : academicpages/academicpages.github.io
+remote_theme             : academicpages/academicpages.github.io
 site_theme             : "mint" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Trusted Advisory"
 title_separator          : "-"
