@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Lead Architect & Trusted Advisor"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,8 +11,6 @@ redirect_from:
 
 Christian Twilfer
 ======
-
-**Lead Architect & Trusted Advisor**
 
 30+ years in enterprise architecture, cloud transformation and digital strategy. I translate complex IT landscapes into decisions that create measurable business value, with a focus on Azure-based platforms, cloud governance, and the organizational side of change.
 
