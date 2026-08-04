@@ -8,8 +8,9 @@
 
 # Basic Site Settings
 locale                   : "de-de"
-# remote_theme             : academicpages/academicpages.github.io
-site_theme             : "mint" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+remote_theme             : academicpages/academicpages.github.io
+theme                    :   
+site_theme               : "mint" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Trusted Advisory"
 title_separator          : "-"
 name                     : &name "Christian Karl Twilfer"
