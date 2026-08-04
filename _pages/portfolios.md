@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Portfolio"
-permalink: /portfolio/
+permalink: /portfolios/
 author_profile: true
 ---
 
