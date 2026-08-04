@@ -1,0 +1,15 @@
+remote_theme: mmistakes/minimal-mistakes
+
+title: "Twilfer"
+name: "Christian Twilfer"
+description: "Meine persönliche Website"
+url: "https://www.twilfer.io"
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-include-cache
+
+# Theme-Einstellungen
+minimal_mistakes_skin: "default"  # Optionen: air, aqua, contrast, dark, dirt, neon, mint, plum, sunrise
