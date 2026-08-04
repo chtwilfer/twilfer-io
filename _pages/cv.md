@@ -9,56 +9,16 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Christian Twilfer
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+**Lead Architect & Trusted Advisor**
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+30+ years in enterprise architecture, cloud transformation and digital strategy. I translate complex IT landscapes into decisions that create measurable business value, with a focus on Azure-based platforms, cloud governance, and the organizational side of change.
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+Built a full-service IT provider with its own data center from zero to operational in 3.5 years. 15 years designing Azure platforms and cloud strategy for enterprise clients. 12 years as NCO in the German Armed Forces.
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+Currently advising clients on cloud strategy and target architecture as Lead Architect and Engagement Manager at CGI.
+
+→ Full profile on [LinkedIn](https://www.linkedin.com/in/azurecris)
+
