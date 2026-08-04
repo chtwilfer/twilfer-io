@@ -27,16 +27,15 @@ author:
   # Biographic information
   avatar           : "ProfileCT2026.png"
   name             : "Christian Karl Twilfer"
-  location         : "Germany"
-  employer         : "Xebia Microsoft Services"
-  uri              : "https://xebia.com/de/partners/microsoft/?redirect=disabled"
+  location         : "DACH - based in Germany"
+  employer         : "[Xebia Microsoft Services](https://xebia.com/de/partners/microsoft/?redirect=disabled)"
   email            : "c.twilfer@icloud.com" 
 
   # Repositories and software development
   github           : "chtwilfer"
 
   # Social media
-  linkedin         : # Username
+  linkedin         : https://www.linkedin.com/in/azurecris
 
 
 # Publication Category - The following the list of publication categories and their headings
