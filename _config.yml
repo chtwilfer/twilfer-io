@@ -28,7 +28,8 @@ author:
   avatar           : "ProfileCT2026.png"
   name             : "Christian Karl Twilfer"
   location         : "DACH - based in Germany"
-  employer         : "[Xebia Microsoft Services](https://xebia.com/de/partners/microsoft/?redirect=disabled)"
+  employer         : "Xebia Microsoft Services"
+  uri              : https://xebia.com/de/partners/microsoft/?redirect=disabled"
   email            : "c.twilfer@icloud.com" 
 
   # Repositories and software development
