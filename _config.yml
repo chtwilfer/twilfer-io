@@ -10,8 +10,8 @@
 locale                   : "de-de"
 remote_theme             : academicpages/academicpages.github.io
 theme                    :   
-site_theme               : "mint" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Trusted Advisory"
+site_theme               : "air" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+title                    : "Strategic Councelor"
 title_separator          : "-"
 name                     : &name "Christian Karl Twilfer"
 description              : &description "Chris´ portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
