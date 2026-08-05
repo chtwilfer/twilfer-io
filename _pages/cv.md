@@ -11,7 +11,7 @@ redirect_from:
 
 ======
 
-![LinkedIn_Banner](images/LinkedIN.jpg)
+![LinkedIn_Banner](/images/LinkedIN.jpg)
 
 
 30+ years in enterprise architecture, cloud transformation and digital strategy. I translate complex IT landscapes into decisions that create measurable business value, with a focus on Azure-based platforms, cloud governance, and the organizational side of change.
