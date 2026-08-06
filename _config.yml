@@ -10,7 +10,7 @@
 locale                   : "de-de"
 remote_theme             : academicpages/academicpages.github.io
 theme                    :   
-site_theme               : "sunrise" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+site_theme               : "mint" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Trusted Advisor"
 title_separator          : "-"
 name                     : &name "Christian Karl Twilfer"
@@ -28,9 +28,10 @@ author:
   avatar           : "ProfileCT2026.png"
   name             : "Christian Karl Twilfer"
   location         : "DACH - based in Germany"
-  employer         : "Xebia Microsoft Services"
-  uri              : https://xebia.com/de/partners/microsoft/?redirect=disabled"
+  employer         : "in transition"
+  uri              : ""
   email            : "c.twilfer@icloud.com" 
+  blog             : "https://nextgencloudarchitecture.twilfer.io/"
 
   # Repositories and software development
   github           : "chtwilfer"
