@@ -16,7 +16,7 @@ redirect_from:
 
 Built a full-service IT provider with its own data center from zero to operational in 3.5 years. 15 years designing Azure platforms and cloud strategy for enterprise clients. 12 years as NCO in the German Armed Forces.
 
-Currently advising clients on cloud strategy and target architecture as Lead Architect and Engagement Manager at CGI.
+Currently advising clients on cloud strategy and target architecture as Lead Architect and Engagement Manager.
 
 → Full profile on [LinkedIn](https://www.linkedin.com/in/azurecris)
 
