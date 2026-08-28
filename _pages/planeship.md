@@ -9,6 +9,8 @@ redirect_from:
 
 ![PlaneshipIDP](/images/planeship_IDP.jpg)
 
+![](https://github.com/chtwilfer/twilfer-io/blob/main/images/planeship_IDP.jpg)
+
 ## An Internal Developer Platform. Built for your organization. Running in your infrastructure.
 
 Most organizations know they need an Internal Developer Platform. Few know how to assemble the right tools in a way that actually benefits a development team — without spending two years getting the first team onboarded.
