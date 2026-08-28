@@ -7,9 +7,10 @@ redirect_from:
   - /resume
 ---
 
-![PlaneshipIDP](/images/planeship_IDP.jpg)
 
-![](https://github.com/chtwilfer/twilfer-io/blob/main/images/planeship_IDP.jpg)
+{% include base_path %}
+
+![LinkedIn_Banner](/images/planeship_IDP.jpg)
 
 ## An Internal Developer Platform. Built for your organization. Running in your infrastructure.
 
