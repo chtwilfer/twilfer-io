@@ -20,6 +20,9 @@ main:
         
   - title: "Blog"
     url: /blog/
+
+  - title: "Planeship"
+    url: /planeship/    
         
   # - title: "CV"
   #   url: /cv-json/
