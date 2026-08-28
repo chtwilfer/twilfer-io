@@ -10,7 +10,7 @@ redirect_from:
 
 {% include base_path %}
 
-![LinkedIn_Banner](/images/planeship_IDP.jpg)
+![](/images/planeship.jpg)
 
 ## An Internal Developer Platform. Built for your organization. Running in your infrastructure.
 
