@@ -54,7 +54,7 @@ Organizations with multiple development teams running on Azure, a platform engin
 
 If you recognize the problem — reach out. No form, no sales funnel. A direct conversation about whether Planeship fits your organization.
 
-**Request a conversation**
+**Write an E-Mail**
 
 -------------
 
