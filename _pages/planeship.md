@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-![PlaneshipIDP](/images/planeship_IDP.png)
+![PlaneshipIDP](/images/planeship_IDP.jpg)
 
 ## An Internal Developer Platform. Built for your organization. Running in your infrastructure.
 
